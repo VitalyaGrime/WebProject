@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML-документ</title>
+</head>
+<body>
+    <h1>HTML - Learning Tags</h1>
+    <ul>
+        <li><u style="color: blue">Doctype</u></li>
+        <li><u style="color: blue">Links</u></li>
+        <li><u style="color: blue">Images</u></li>
+        <li><u style="color: blue">Lists</u></li>
+        <li><u style="color: blue">Headings</u></li>
+        <li><u style="color: blue">Comments</u></li>
+        <li><u style="color: blue">Block &amp; inline elements</u></li>
+        <li><u style="color: blue">Forms</u></li>
+        <li><u style="color: blue">Text formatting</u></li>
+        <li><u style="color: blue">Break line</u></li>
+        <li><u style="color: blue">Classes</u></li>
+        <li><u style="color: blue">Attributes</u></li>
+    </ul>
+</body>
+</html>
