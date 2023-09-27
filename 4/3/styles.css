@@ -1,0 +1,225 @@
+/* Стили для контейнера */
+.outer-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 500px;
+  height: auto;
+  background-color: white;
+  padding: 2px;
+  border: 2px solid #D8D1D1; /* Добавляем бордюр */
+}
+
+.container {
+  width: 157px;
+  height: auto;
+}
+
+/* Стили для прямоугольников */
+.orange-rectangle {
+  background-color: orange;
+  margin-bottom: 2px;
+  width: 57px;
+  height: 20px;
+  margin-bottom: 2px;
+}
+
+.orange-rectangle2 {
+  background-color: orange;
+  margin-bottom: 2px;
+  width: 85px;
+  height: 20px;
+  margin-bottom: 2px;
+  margin-right: 50px;
+}
+
+.green-rectangle {
+  background-color: #CFF21D;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 57px;
+  margin-bottom: 5px;
+  height: 20px;
+}
+
+.green-rectangle2 {
+  background-color: #CFF21D;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 85px;
+  margin-bottom: 5px;
+  height: 50px;
+}
+
+.blue-rectangle {
+  background-color: #0C93BE;
+  margin-bottom: 2px;
+  height: 40px;
+  width: 57px;
+  margin-bottom: 2px;
+}
+
+.blue-rectangle2 {
+  background-color: #0C93BE;
+  margin-bottom: 2px;
+  height: 21px;
+  width: 85px;
+  margin-bottom: 2px;
+}
+
+.gray-rectangle {
+  background-color: #D8D1D1;
+  margin-top: 5px;
+  width: 57px;
+  margin-bottom: 2px;
+  height: 20px;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.gray-rectangle2 {
+  background-color: #D8D1D1;
+  margin-top: 4px;
+  margin-bottom: 2px;
+  width: 42px;
+  height: 20px;
+}
+
+.gray-rectangle3 {
+  background-color: #D8D1D1;
+  margin-top: 4px;
+  margin-bottom: 2px;
+  width: 42px;
+  height: 20px;
+}
+
+.gray-rectangle2-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 86px;
+  height: auto;
+  background-color: white;
+  padding: 0px;
+  border: 0px solid #D8D1D1; /* Добавляем бордюр */
+}
+
+.orange-rectangle3-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 140px;
+  height: auto;
+  background-color: white;
+  padding: 0px;
+  border: 0px solid #D8D1D1; /* Добавляем бордюр */
+}
+
+.orange-rectangle3 {
+  background-color: orange;
+  margin-bottom: 2px;
+  width: 70px;
+  height: 30px;
+  margin-bottom: 2px;
+  margin-right: 2px;
+}
+
+.orange-rectangle4 {
+  background-color: orange;
+  margin-bottom: 2px;
+  width: 70px;
+  height: 30px;
+  margin-bottom: 2px;
+  margin-left: 2px;
+}
+
+.green-rectangle3 {
+  background-color: #CFF21D;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 140px;
+  margin-bottom: 5px;
+  height: 70px;
+}
+
+.blue-rectangle3-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 140px;
+  height: auto;
+  background-color: white;
+  padding: 0px;
+  border: 0px solid #D8D1D1; /* Добавляем бордюр */
+}
+
+.blue-rectangle3 {
+  background-color: #0C93BE;
+  margin-bottom: 5px;
+  width: 43px;
+  height: 40px;
+  margin-bottom: 2px;
+  margin-right: 0px;
+}
+
+.blue-rectangle4 {
+  background-color: #0C93BE;
+  margin-bottom: 5px;
+  width: 44px;
+  height: 40px;
+}
+
+.blue-rectangle5 {
+  background-color: #0C93BE;
+  margin-bottom: 2px;
+  width: 44px;
+  height: 40px;
+  margin-bottom: 2px;
+  margin-left: 0px;
+}
+
+.gray-rectangle3-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 140px;
+  height: auto;
+  background-color: white;
+  padding: 0px;
+  border: 0px solid #D8D1D1; /* Добавляем бордюр */
+}
+
+.gray-rectangle4 {
+  background-color: #D8D1D1;
+  margin-bottom: 2px;
+  width: 44px;
+  height: 40px;
+  margin-bottom: 2px;
+  margin-right: 3px;
+}
+
+.gray-rectangle5 {
+  background-color: #D8D1D1;
+  margin-bottom: 2px;
+  width: 44px;
+  height: 40px;
+  margin-bottom: 2px;
+}
+
+.gray-rectangle6 {
+  background-color: #D8D1D1;
+  margin-bottom: 2px;
+  width: 44px;
+  height: 40px;
+  margin-bottom: 2px;
+  margin-left: 3px;
+}
+
+.gray-rectangle7 {
+  background-color: #D8D1D1;
+  margin-bottom: 2px;
+  width: 44px;
+  height: 40px;
+  margin-bottom: 2px;
+  margin-left: 3px;
+}
