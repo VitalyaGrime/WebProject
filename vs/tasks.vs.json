@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-reg-vhod",
+      "appliesTo": "reg-vhod.html",
+      "type": "launch"
+    }
+  ]
+}
